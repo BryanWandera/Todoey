@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eec0245e-4b76-4ccd-8d5e-15becf8e302e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Todoey/.gitattributes" beforeDir="false" />
-    </list>
+    <list default="true" id="eec0245e-4b76-4ccd-8d5e-15becf8e302e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Todoey" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iUh7h4TmAh7Lzsp7XGIqD5Nuxu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ecommerce_app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bmi_calculator" />
     <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -40,21 +38,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="481" y="198" key="FileChooserDialogImpl" timestamp="1602661690685">
+    <state x="431" y="139" key="FileChooserDialogImpl" timestamp="1614594313373">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="481" y="198" key="FileChooserDialogImpl/0.0.1500.1000@0.0.1500.1000" timestamp="1602661690685" />
-    <state x="136" y="57" key="SettingsEditor" timestamp="1602076714621">
+    <state x="431" y="139" key="FileChooserDialogImpl/0.0.1500.1000@0.0.1500.1000" timestamp="1614594313373" />
+    <state width="1432" height="238" key="GridCell.Tab.0.bottom" timestamp="1614594317307">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="136" y="57" key="SettingsEditor/0.0.1500.1000@0.0.1500.1000" timestamp="1602076714621" />
-    <state x="100" y="100" width="1300" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602152306317">
+    <state width="1432" height="238" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1614594317307" />
+    <state width="1432" height="238" key="GridCell.Tab.0.center" timestamp="1614594317307">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="100" y="100" width="1300" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1602152306317" />
-    <state x="370" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1602661643523">
+    <state width="1432" height="238" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1614594317307" />
+    <state width="1432" height="238" key="GridCell.Tab.0.left" timestamp="1614594317307">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="370" y="282" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1602661643523" />
+    <state width="1432" height="238" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1614594317307" />
+    <state width="1432" height="238" key="GridCell.Tab.0.right" timestamp="1614594317307">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1432" height="238" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1614594317307" />
   </component>
 </project>
